@@ -25,11 +25,9 @@ $$|\textbf{A}|\neq 0$$
 
 $$ \textbf{A}^{-1}=\dfrac{1}{|\textbf{A}|}\textbf{A}^* $$
 
-其中 $\textbf{A}^*$ 是 $\textbf{A}$ 的伴随矩阵，其计算方法为：
+其中 $\textbf{A}^*$ 是 $\textbf{A}$ 的伴随矩阵，其计算方法为
 
-$$
-a^*_{ij}=(-1)^{i+j}|\textbf{A}_{ji}|
-$$
+$$ a^*\_{ij}=(-1)^{i+j}|\textbf{A}_{ji}| $$
 
 与前一部分相同， $\textbf{A}_{ji}$ 表示矩阵 $\textbf{A}$ 将第 $j$ 行和第 $i$ 列删除后得到的子矩阵。
 因此只需要构造出伴随矩阵，即可完成求逆运算。
