@@ -1,3 +1,0 @@
-/Users/zzy/Desktop/大三下/XLab/hw/build/CMakeFiles/main.dir
-/Users/zzy/Desktop/大三下/XLab/hw/build/CMakeFiles/edit_cache.dir
-/Users/zzy/Desktop/大三下/XLab/hw/build/CMakeFiles/rebuild_cache.dir
