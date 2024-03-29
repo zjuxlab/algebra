@@ -59,7 +59,7 @@ Error: Matrix a and b must have the same rows and cols.
 ## 提交方式｜Submit
 将你完成任务的GitHub仓库链接通过飞书发送给X-Check机器人，机器人会自动进行打分并将分数返回。参考如下视频：
 
-<video src="https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2024-03-29-827_1711724348.mp4"></video>
+[https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2024-03-29-827_1711724348.mp4](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2024-03-29-827_1711724348.mp4)
 
 ## 截止日期｜Deadline
 待定
