@@ -1,7 +1,11 @@
 # algebra
 硬件技术团队编程基础作业
+## 课件资料 | Reference
+* [课程PPT](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/0701%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80.pdf)
+* [VSCode的C/C++环境配置教程](https://www.bilibili.com/video/BV1UZ421e7ty/?share_source=copy_web&vd_source=d82c2ec75577b6834f9f580f066180c1)
+* [Git使用教程](https://www.bilibili.com/video/BV1og4y1u7XU/?share_source=copy_web&vd_source=d82c2ec75577b6834f9f580f066180c1)
 ## 预修要求｜Requirements
-修读过《C程序设计基础》、《线性代数》以及X·Lab硬件技术团队第一次内训或其对应的高阶课程。
+修读过《C程序设计基础》、《线性代数》以及X·Lab硬件技术团队编程基础课程或其对应的高阶课程。
 ## 说明｜Explainations
 本题目的难度对于初学者而言相对较高，主要考察了基础的数学能力、通过编程解决问题的能力以及工程管理、CMake、git等综合能力。该作业的最终得分仅作参考，同学们可根据自己的能力来决定实现哪些函数。
 ## 题目背景｜Background
@@ -15,7 +19,7 @@
 4. 根据`inc/algebra.h`中的注释和预定义，在`src/algebra.c`中实现对应的函数。
 5. 根据内训所讲，自行编写`CMakeLists.txt`文件，使你的工程能够在本地成功编译运行。
 6. 自学Markdown，修改`README.md`文件，需要包含你的实现思路（大致描述即可）以及本地运行截图。
-7. 将你的修改提交到远程仓库，并将仓库链接提交（提交方式待定）。
+7. 将你的修改提交到远程仓库，并将仓库链接提交（提交方式见下文）。
 ## 思路参考｜Thinking
 见`doc`文件夹。
 ## 交互格式｜Format
@@ -57,9 +61,6 @@ Error: Matrix a and b must have the same rows and cols.
 * `det_matrix`、`inv_matrix`、`rank_matrix`功能正常每个+15分
 > 为了保证题目难度，每个函数具体的评分标准不予公布。
 ## 提交方式｜Submit
-将你完成任务的GitHub仓库链接通过飞书发送给X-Check机器人，机器人会自动进行打分并将分数返回。参考如下视频：
+将你的每个函数的测试运行结果以截图的形式放在你仓库的`README.md`文件中（请注意Markdown中图片的引用要包含源文件）。并将你的最终代码仓库链接（在浏览器上的那个，不要带有`.git`的）填写如下问卷发送：
 
-[https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2024-03-29-827_1711724348.mp4](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2024-03-29-827_1711724348.mp4)
-
-## 截止日期｜Deadline
-待定
+![](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/%E3%80%8A%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E3%80%8B%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4.png)
