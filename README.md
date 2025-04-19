@@ -1,7 +1,7 @@
 # algebra
 硬件技术团队编程基础作业
 ## 课件资料 | Reference
-* [课程PPT](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/0701%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80.pdf)
+* [课程PPT](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2025-04-19-2025%E7%A1%AC%E4%BB%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%85%E8%AE%AD.pdf)
 * [VSCode的C/C++环境配置教程](https://www.bilibili.com/video/BV1UZ421e7ty/?share_source=copy_web&vd_source=d82c2ec75577b6834f9f580f066180c1)
 * [Git使用教程](https://www.bilibili.com/video/BV1og4y1u7XU/?share_source=copy_web&vd_source=d82c2ec75577b6834f9f580f066180c1)
 ## 预修要求｜Requirements
@@ -58,9 +58,9 @@ Error: Matrix a and b must have the same rows and cols.
 ## 评分标准｜Standard
 * 成功运行：+25分
 * `add_matrix`、`sub_matrix`、`mul_matrix`、`scale_matrix`、`transpose_matrix`、`trace_matrix`功能正常每个+5分
-* `det_matrix`、`inv_matrix`、`rank_matrix`功能正常每个+15分
+* `det_matrix`、`inv_matrix`、`rank_matrix`功能正常共+10分（此处为附加题，有一定难度，可选做）
 > 为了保证题目难度，每个函数具体的评分标准不予公布。
 ## 提交方式｜Submit
 将你的每个函数的测试运行结果以截图的形式放在你仓库的`README.md`文件中（请注意Markdown中图片的引用要包含源文件）。并将你的最终代码仓库链接（在浏览器上的那个，不要带有`.git`的）填写如下问卷发送：
 
-![](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/%E3%80%8A%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E3%80%8B%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4.png)
+![](https://tannin-1316822731.cos.ap-nanjing.myqcloud.com/2025-04-19-%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%86%85%E8%AE%AD%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4.png)
