@@ -1,2 +1,0 @@
-F:/zzy/code/algebra/build/CMakeFiles/edit_cache.dir
-F:/zzy/code/algebra/build/CMakeFiles/rebuild_cache.dir
