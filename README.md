@@ -1,5 +1,5 @@
 # algebra
-硬件技术团队编程基础作业
+## 运行截图在文件夹pic中，README中以相对路径形式引用。
 ## add_matrix
 思路：对应元素相加。
 ![](.\pic\add_matrix.png)
