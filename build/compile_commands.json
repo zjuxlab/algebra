@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/x-lab/cuidongjie_hw1-main/cuidongjie_hw1-main/build",
+  "command": "E:\\gcc\\ucrt64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c D:\\x-lab\\cuidongjie_hw1-main\\cuidongjie_hw1-main\\src\\algebra.c",
+  "file": "D:/x-lab/cuidongjie_hw1-main/cuidongjie_hw1-main/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "D:/x-lab/cuidongjie_hw1-main/cuidongjie_hw1-main/build",
+  "command": "E:\\gcc\\ucrt64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c D:\\x-lab\\cuidongjie_hw1-main\\cuidongjie_hw1-main\\src\\main.c",
+  "file": "D:/x-lab/cuidongjie_hw1-main/cuidongjie_hw1-main/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
