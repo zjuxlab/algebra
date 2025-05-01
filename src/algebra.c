@@ -220,8 +220,6 @@ void print_matrix(Matrix a)
             // 按行打印，每个元素占8个字符的宽度，小数点后保留2位，左对齐
             printf("%-8.2f", a.data[i][j]);
         }
-
-
-        printf("\n");
+            printf("\n");
     }
 }
