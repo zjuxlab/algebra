@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Shanyueling/shanyueling_hw1-main/build",
+  "command": "D:\\download\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c D:\\Shanyueling\\shanyueling_hw1-main\\src\\algebra.c",
+  "file": "D:/Shanyueling/shanyueling_hw1-main/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "D:/Shanyueling/shanyueling_hw1-main/build",
+  "command": "D:\\download\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\main.dir\\src\\main.c.obj -c D:\\Shanyueling\\shanyueling_hw1-main\\src\\main.c",
+  "file": "D:/Shanyueling/shanyueling_hw1-main/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
