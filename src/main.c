@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "algebra.h"
 
+
 int main()
 {
     while (1)
@@ -72,7 +73,7 @@ int main()
                         scanf("%lf", &a.data[i][j]);
                     }
                 }
-                scanf("%d %d\n", &rows, &cols);
+                scanf("%d %d", &rows, &cols);
                 Matrix b = create_matrix(rows, cols);
                 for (int i = 0; i < rows; i++)
                 {
